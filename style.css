@@ -164,3 +164,121 @@ nav {
     font-size: 20px;
     font-weight: 800;
 }
+
+/* destinations section */
+
+.destination-header {
+    color: #131318;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.destination-discription {
+    color: rgba(19, 19, 24, 0.7);
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 0;
+    margin-bottom: 45px;
+}
+
+.destination-images {
+    margin: 0px 128px;
+    width: 1170px;
+}
+
+.destination-images>div {
+    color: #FFF;
+    text-align: center;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.destination-image-1,
+.destination-image-2,
+.destination-image-3 {
+    display: flex;
+    gap: 16px;
+    width: 1158px;
+}
+
+.country-name-1 {
+    background-image: url("images/maldives.png");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 573px;
+    height: 300px;
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+.country-name-2 {
+    background-image: url("images/indonesia.png");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 573px;
+    height: 300px;
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+.country-name-3 {
+    background-image: url("images/srilanka.png");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 374px;
+    height: 286px;
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+.country-name-4 {
+    background-image: url("images/north\ america.png");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 474px;
+    height: 286px;
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+.country-name-5 {
+    background-image: url("images/kashmir.png");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 274px;
+    height: 286px;
+    border-radius: 16px;
+    margin-bottom: 16px;
+}
+
+.country-name-6 {
+    background-image: url("images/bangladesh.png");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 473px;
+    height: 300px;
+    border-radius: 16px;
+}
+
+.country-name-7 {
+    background-image: url("images/bandarban.png");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 673px;
+    height: 300px;
+    border-radius: 16px;
+}
