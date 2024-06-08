@@ -402,3 +402,39 @@ nav {
     font-weight: 400;
     padding-left: 32px;
 }
+
+/* special offer section */
+
+.featured {
+    display: flex;
+    gap: 50px;
+    margin: 150px 128px;
+    align-items: center;
+    width: 1170px;
+}
+
+.featured button {
+    border: none;
+    color: #FF5400;
+    font-size: 16px;
+    padding: 10px 24px;
+    font-weight: 700;
+}
+
+.featured p {
+    color: #6C6C6C;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.featured h2 {
+    color: #0A0826;
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.featured img {
+    width: 573px;
+    height: 300px;
+    border-radius: 16px;
+}
