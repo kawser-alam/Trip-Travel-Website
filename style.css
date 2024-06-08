@@ -282,3 +282,123 @@ nav {
     height: 300px;
     border-radius: 16px;
 }
+
+/* why choose us section */
+
+.choose-us-title {
+    margin-top: 100px;
+    color: #131318;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.chose-us-description {
+    color: rgba(19, 19, 24, 0.70);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.hotel-map {
+    display: flex;
+    justify-content: center;
+    margin: 0px 128px;
+    gap: 24px;
+    margin-top: 48px;
+    width: 1158px;
+}
+
+.hotel {
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(251, 181, 99, 0.20);
+    background: rgba(251, 181, 99, 0.05);
+    padding-bottom: 32px;
+}
+
+.hotel img {
+    width: 64px;
+    height: 64px;
+    padding: 32px;
+}
+
+.hotel h1 {
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+    padding-left: 32px;
+    padding-right: 55px;
+}
+
+.hotel p {
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 32px;
+    padding-right: 55px;
+    padding-bottom: 32px;
+}
+
+.map {
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(41, 206, 246, 0.20);
+    background: rgba(41, 206, 246, 0.05);
+    padding-bottom: 32px;
+}
+
+.map img {
+    width: 64px;
+    height: 64px;
+    padding: 32px;
+}
+
+.map h1 {
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+    padding-left: 32px;
+    padding-right: 55px;
+}
+
+.map p {
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 32px;
+    padding-right: 55px;
+}
+
+.price {
+    margin: 24px auto 0px;
+    width: 573px;
+    height: 284px;
+    border-radius: 16px;
+    border: 1px solid rgba(233, 68, 68, 0.20);
+    background: rgba(233, 68, 68, 0.05);
+    padding-bottom: 32px;
+}
+
+.price img {
+    width: 64px;
+    height: 64px;
+    padding: 32px;
+}
+
+.price h1 {
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+    padding-left: 32px;
+}
+
+.price p {
+    width: 486px;
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 32px;
+}
